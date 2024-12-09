@@ -7,6 +7,6 @@ import PrimeVue from 'primevue/config'
 const app = createApp(App)
 app.use(PrimeVue, {
   theme: 'none',
-});
+})
 
-app.mount("#app");
+app.mount('#app')
